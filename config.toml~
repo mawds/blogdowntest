@@ -6,8 +6,6 @@ googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-publishDir = "docs"
-
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 
@@ -39,3 +37,4 @@ publishDir = "docs"
     height = 50
     alt = "Logo"
 
+publishDir = "docs"
